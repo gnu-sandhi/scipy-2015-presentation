@@ -1,0 +1,87 @@
+\documentclass{beamer}
+
+\mode<presentation>
+{
+  \usetheme{Frankfurt}      % or try Darmstadt, Madrid, Warsaw, ...
+  %% \usecolortheme{default} % or try albatross, beaver, crane, ...
+  \usecolortheme[RGB={0,104,139}]{structure}%deepskyblue
+  \usefonttheme{serif}  % or try serif, structurebold, ...
+  \setbeamertemplate{navigation symbols}{}
+  \setbeamertemplate{caption}[numbered]
+  \useinnertheme{rounded}
+}
+
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{pxfonts}
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+
+
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows,shapes}
+\setbeamercovered{transparent}
+%% 
+\title[Sandhi
+\insertframenumber/\inserttotalframenumber]{Sandhi\\ Open Source Visual Programming Software}
+\author[Sandhi Team, IIT Bombay]{Ambikeshwar Srivastava \\FOSSEE, IIT Bombay \\Manoj Gudi\\ CTO, Focus Analytics}
+\date{August 22,2015}
+\usepackage{beamerthemesplit}
+\usepackage{beamerthemeshadow}
+\logo{\includegraphics[width=1cm height=2cm]{fosseelogo.png}
+    \hspace{\dimexpr \paperwidth-2cm-5pt}
+\includegraphics[height=1cm]{iitblogo.pdf}}
+
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}
+	\frametitle{Introduction}
+	\begin{itemize}
+		\item Sandhi is a visual programming editor based on GNU Radio
+		\item Basic data structure in sandhi is the flowgraph
+		\item It has been named Sandhi as it means connecting and conveys our idea of connecting various blocks to come up with a robust visual program
+		\item Sandhi is aimed to become a visual programming tool for replacing LabVIEW
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+        \frametitle{Flowgraph}
+        \begin{itemize}
+        \item Flowgraph represents the connections of the blocks through which a continuous stream of samples flows
+        \item The concept of a flowgraph is an acyclic directional graph with one or more source blocks (to insert samples into the flowgraph), one or more sink blocks (to terminate or export samples from the flowgraph), and any functional blocks in between.
+        \end{itemize}
+\end{frame}
+
+\begin{frame}
+        \frametitle{Motivation to develop Sandhi}
+        \begin{itemize}
+		\item Lack of proper open source alternative to LabVIEW.
+		\item  Expensive proprietary software.
+		\item  Being FOSS, it gives you freedom to modify, share and sell your application without any permission. 
+        \end{itemize}
+\end{frame}
+
+\begin{frame}
+        \frametitle{Why GNU Radio?}
+        \begin{itemize}
+		\item GNURadio is a very promising visual programming tool as:
+	\begin{itemize}
+		\item it make very easy for the developer to abstract his code
+		\item provides a very easy to use framework to the developer
+		\item it is open source
+	\end{itemize}
+        \end{itemize}
+\end{frame}
+
+\begin{frame}
+        \frametitle{What is GNU Radio}
+        \begin{itemize}
+		\item 
+        \end{itemize}
+\end{frame}
+\end{document}
