@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.6)  15 DEC 2015 00:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.6)  15 DEC 2015 00:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1330,109 +1330,26 @@ Package pdftex.def Info: iitblogo.pdf used on input line 161.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [12
 
- <./sandhi_presentation.png>] <sbhs.jpg, id=121, 1188.44pt x 668.4975pt>
-File: sbhs.jpg Graphic file (type jpg)
-
-<use sbhs.jpg>
-Package pdftex.def Info: sbhs.jpg used on input line 187.
-(pdftex.def)             Requested size: 356.53476pt x 200.5508pt.
-
-Overfull \hbox (49.24489pt too wide) in paragraph at lines 187--187
- [] 
- []
-
-LaTeX Font Info:    Try loading font information for U+pxsya on input line 187.
-
-(/usr/share/texlive/texmf-dist/tex/latex/pxfonts/upxsya.fd
-File: upxsya.fd 2000/12/14 v1.0
-)
-LaTeX Font Info:    Try loading font information for U+pxsyb on input line 187.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/pxfonts/upxsyb.fd
-File: utxsyb.fd 2000/12/14 v1.0
-)
-LaTeX Font Info:    Try loading font information for U+pxmia on input line 187.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/pxfonts/upxmia.fd
-File: upxmia.fd 2000/12/14 v1.0
-)
-LaTeX Font Info:    Try loading font information for U+pxsyc on input line 187.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/pxfonts/upxsyc.fd
-File: upxsyc.fd 2000/12/14 v1.0
-)
-! Undefined control sequence.
-<argument> \texwidth 
-                     
-l.187 \end{frame}
-                 
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.187 \end{frame}
-                 
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.187 \end{frame}
-                 
-? 
-<sbhs_img.png, id=122, 451.6875pt x 307.1475pt>
-File: sbhs_img.png Graphic file (type png)
- <use sbhs_img.png>
-Package pdftex.def Info: sbhs_img.png used on input line 187.
-(pdftex.def)             Requested size: 135.5073pt x 92.14496pt.
-
-Overfull \hbox (135.5073pt too wide) in paragraph at lines 187--187
- [] 
- []
-
-! Undefined control sequence.
-<argument> \texwidth 
-                     
-l.187 \end{frame}
-                 
-? 
-! Missing number, treated as zero.
-<to be read again> 
-                   \relax 
-l.187 \end{frame}
-                 
-? 
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.187 \end{frame}
-                 
-? 
-
-Overfull \vbox (63.65831pt too high) detected at line 187
- []
-
+ <./sandhi_presentation.png>]
 File: fosseelogo.png Graphic file (type png)
+ <use fosseelogo.png>
+Package pdftex.def Info: fosseelogo.png used on input line 177.
+(pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
+File: iitblogo.pdf Graphic file (type pdf)
+ <use iitblogo.pdf>
+Package pdftex.def Info: iitblogo.pdf used on input line 177.
+(pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
+ [13
+
+]
+File: fosseelogo.png Graphic file (type png)
+
 <use fosseelogo.png>
 Package pdftex.def Info: fosseelogo.png used on input line 187.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
 Package pdftex.def Info: iitblogo.pdf used on input line 187.
-(pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
- [13
-
- <./sbhs.jpg> <./sbhs_img.png>]
-File: fosseelogo.png Graphic file (type png)
-
-<use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 195.
-(pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
-File: iitblogo.pdf Graphic file (type pdf)
- <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 195.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [14
 
@@ -1446,21 +1363,21 @@ Package pdftex.def Info: iitblogo.pdf used on input line 195.
 \tf@snm=\write8
 \openout8 = `sandhi.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 197.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 197.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
  (./sandhi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 197.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 197.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
 Package rerunfilecheck Info: File `sandhi.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 197.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
  ) 
 Here is how much of TeX's memory you used:
- 21028 strings out of 494985
- 415765 string characters out of 6180357
- 531308 words of memory out of 5000000
- 23656 multiletter control sequences out of 15000+600000
- 21420 words of font info for 64 fonts, out of 8000000 for 9000
+ 20936 strings out of 494985
+ 414310 string characters out of 6180357
+ 531309 words of memory out of 5000000
+ 23588 multiletter control sequences out of 15000+600000
+ 13884 words of font info for 37 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  49i,16n,57p,395b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -1468,10 +1385,10 @@ e/texmf-dist/fonts/type1/public/pxfonts/rpxb.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/pxfonts/rpxr.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatin
 o/uplr8a.pfb>
-Output written on sandhi.pdf (14 pages, 295746 bytes).
+Output written on sandhi.pdf (14 pages, 177603 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
+ 157 PDF objects out of 1000 (max. 8388607)
  110 compressed objects within 2 object streams
  29 named destinations out of 1000 (max. 500000)
- 133 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
