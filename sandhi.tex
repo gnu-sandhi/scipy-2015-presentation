@@ -18,7 +18,6 @@
 \usepackage[english]{babel}
 \usepackage[utf8x]{inputenc}
 
-
 \usepackage{amsmath}
 \usepackage{tikz}
 \usetikzlibrary{arrows,shapes}
@@ -67,7 +66,7 @@
 \begin{frame}
         \frametitle{Motivation to develop Sandhi}
         \begin{itemize}
-		\item Lack of proper open source alternative to LabVIEW.
+		\item  Lack of proper open source alternative to LabVIEW.
 		\item  Expensive proprietary software.
 		\item  Being FOSS, it gives you freedom to modify, share and sell your application without any permission. 
         \end{itemize}
@@ -120,11 +119,78 @@
         \end{itemize}
 \end{frame}
 
-
+\begin{frame}
+        \frametitle{Block in sandhi}
+        \begin{itemize}
+	\item Blocks are the basic building component of flowgraph
+	\item Blocks have the property written in C++ or Python
+        \end{itemize}
+\end{frame}
 
 \begin{frame}
-        \frametitle{GNU Radio to Sandhi}
+        \frametitle{How to create a block}
         \begin{itemize}
+        \item One can create a customized block with knowledge of C++ or Python
+        \item Block developer have access to any library available in Python
+	\item There are two files needed to create a block in sandhi:
+		\begin{itemize}
+			\item Functionality written in C++ or Python
+			\item Properties written in xml file
+		\end{itemize}
+        \end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Work Flow}
+\vspace{-0.14in}
+\begin{figure}
+\centering
+\includegraphics[height=2.8cm, width=10cm]{sandhi_presentation.png}
+\end{figure}
+\vspace{-0.2in}
+\begin{itemize}
+\item \textbf{Block:} A functional processing unit with inputs and outputs.
+\item \textbf{port:} A single input or output of a block.
+\item \textbf{Source:} A producer of data.
+\item \textbf{Sink:} A consumer of data.
+\item \textbf{Connection:} A flow of data from output port to input port.
+\item \textbf{Flow graph:} A collection of blocks and connections.
+\end{itemize}
+
+
+\end{frame}\begin{frame}
+        \frametitle{Experiments on sandhi: Data Aquisition}
+        \begin{itemize}
+	\item Single Board Heater System(SBHS) can controlled using sandhi
+	\item Using Python serial library, one can set the fan,heat value to SBHS and receive temperature value from SBHS
+        \end{itemize}
+
+%  \includegraphics[width=.5\linewidth]{sbhs.jpg}
+%  \caption{SBHS showing value of fan, heat and temperature}
+%  \includegraphics[width=.5\linewidth]{sbhs_img.png}
+%  \caption{Output window with slider}
+%\begin{figure}
+%\subfigure[SBHS showing value of fan, heat and temperature]{\includegraphics[width=5cm]{sbhs.jpg}}
+%\subfigure[Output window with slider]{\includegraphics[width=5cm]{sbhs_img.png}}
+%\caption{Single Board Heater system running on sandhi}
+%\end{figure}
+\begin{columns}[c]
+    \column{\textwidth}
+        \begin{center}
+            \includegraphics[scale=0.3]{sbhs.jpg}
+        \end{center}
+    \column{\texwidth}
+        \begin{center}
+             \includegraphics[scale=0.3]{sbhs_img.png} 
+        \end{center}
+\end{columns}
+\end{frame}
+\begin{frame}
+        \frametitle{Experiments on sandhi: step response of transfer function}
+        \begin{itemize}
+	\item To perform step response the flowgraph is created as follows
+	\item Flowgraph uses Numerator, Denomenator, Response and plot-sink block
+	\item These blocks has been written in Python and response of system is calculated in scilab using sciscipy
         \end{itemize}
 \end{frame}
 
