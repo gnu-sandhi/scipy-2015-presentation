@@ -55,6 +55,13 @@
         \item Flowgraph represents the connections of the blocks through which a continuous stream of samples flows
         \item The concept of a flowgraph is an acyclic directional graph with one or more source blocks (to insert samples into the flowgraph), one or more sink blocks (to terminate or export samples from the flowgraph), and any functional blocks in between.
         \end{itemize}
+	\vspace{-0.14in}
+        \begin{figure}
+        \centering
+        \includegraphics[height=2.8cm, width=10cm]{step_resp.png}
+        \end{figure}
+        \vspace{-0.2in}
+
 \end{frame}
 
 \begin{frame}
@@ -67,21 +74,58 @@
 \end{frame}
 
 \begin{frame}
-        \frametitle{Why GNU Radio?}
+        \frametitle{Development of Sandhi}
         \begin{itemize}
-		\item GNURadio is a very promising visual programming tool as:
-	\begin{itemize}
-		\item it make very easy for the developer to abstract his code
-		\item provides a very easy to use framework to the developer
-		\item it is open source
-	\end{itemize}
+                \item GNU Radio
+                \item sciscipy
+                \item GRAS
         \end{itemize}
 \end{frame}
 
 \begin{frame}
-        \frametitle{What is GNU Radio}
+        \frametitle{GNU Radio}
         \begin{itemize}
-		\item 
+		\item GNU Radio is a free and open-source software development toolkit that provides signal processing blocks to implement software radios.
+		\item Supposed to be used by the Electrical Engineering community for the purpose of digital signal processing 
+		\item It has a rich module of implemented device drivers and thereby supports a range of devices
         \end{itemize}
 \end{frame}
+
+\begin{frame}
+        \frametitle{Why GNU Radio?}
+        \begin{itemize}
+                \item GNURadio is a very promising visual programming tool as:
+        \begin{itemize}
+                \item it make very easy for the developer to abstract his code
+                \item provides a very easy to use framework to the developer
+                \item it is open source
+        \end{itemize}
+        \end{itemize}
+\end{frame}
+
+\begin{frame}
+	\frametitle{sciscipy}
+	\begin{itemize}
+		\item Sciscipy is an Application Programming Interface 
+		\item Aimed for Inter Process Communication with scilab when in workspace of Python programming language
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+        \frametitle{GRAS}
+        \begin{itemize}
+		\item GRAS stands for GNU Radio Advanced Scheduler
+		\item It was impossible to implement the feedback with GNU Radio, which uses stock application schedular 
+\textbf{Note:} Application Scheduler is responsible for threading, controlling the data flow and managing the use of the computer resources like processor time to various processes.
+        \end{itemize}
+\end{frame}
+
+
+
+\begin{frame}
+        \frametitle{GNU Radio to Sandhi}
+        \begin{itemize}
+        \end{itemize}
+\end{frame}
+
 \end{document}
