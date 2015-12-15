@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.6)  15 DEC 2015 23:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.6)  16 DEC 2015 00:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1229,16 +1229,16 @@ Package pdftex.def Info: iitblogo.pdf used on input line 49.
 <step_resp.png, id=56, 828.09375pt x 332.24126pt>
 File: step_resp.png Graphic file (type png)
  <use step_resp.png>
-Package pdftex.def Info: step_resp.png used on input line 69.
+Package pdftex.def Info: step_resp.png used on input line 70.
 (pdftex.def)             Requested size: 284.53017pt x 79.66855pt.
 File: fosseelogo.png Graphic file (type png)
 
 <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 69.
+Package pdftex.def Info: fosseelogo.png used on input line 70.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 69.
+Package pdftex.def Info: iitblogo.pdf used on input line 70.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [3
 
@@ -1246,34 +1246,34 @@ Package pdftex.def Info: iitblogo.pdf used on input line 69.
 File: fosseelogo.png Graphic file (type png)
 
 <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 78.
+Package pdftex.def Info: fosseelogo.png used on input line 79.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 78.
+Package pdftex.def Info: iitblogo.pdf used on input line 79.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [4
 
 ]
 File: fosseelogo.png Graphic file (type png)
  <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 87.
+Package pdftex.def Info: fosseelogo.png used on input line 88.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
 
 <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 87.
+Package pdftex.def Info: iitblogo.pdf used on input line 88.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [5
 
 ]
 File: fosseelogo.png Graphic file (type png)
  <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 96.
+Package pdftex.def Info: fosseelogo.png used on input line 97.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 96.
+Package pdftex.def Info: iitblogo.pdf used on input line 97.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [6
 
@@ -1281,34 +1281,34 @@ Package pdftex.def Info: iitblogo.pdf used on input line 96.
 File: fosseelogo.png Graphic file (type png)
 
 <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 108.
+Package pdftex.def Info: fosseelogo.png used on input line 109.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 108.
+Package pdftex.def Info: iitblogo.pdf used on input line 109.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [7
 
 ]
 File: fosseelogo.png Graphic file (type png)
  <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 122.
+Package pdftex.def Info: fosseelogo.png used on input line 123.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
 
 <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 122.
+Package pdftex.def Info: iitblogo.pdf used on input line 123.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [8
 
 ]
 File: fosseelogo.png Graphic file (type png)
  <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 132.
+Package pdftex.def Info: fosseelogo.png used on input line 133.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 132.
+Package pdftex.def Info: iitblogo.pdf used on input line 133.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [9
 
@@ -1316,27 +1316,27 @@ Package pdftex.def Info: iitblogo.pdf used on input line 132.
 <source_block.png, id=104, 181.67876pt x 168.63pt>
 File: source_block.png Graphic file (type png)
  <use source_block.png>
-Package pdftex.def Info: source_block.png used on input line 159.
+Package pdftex.def Info: source_block.png used on input line 160.
 (pdftex.def)             Requested size: 82.96854pt x 77.0098pt.
-LaTeX Font Info:    Try loading font information for U+pxsya on input line 159.
+LaTeX Font Info:    Try loading font information for U+pxsya on input line 160.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/pxfonts/upxsya.fd
 File: upxsya.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+pxsyb on input line 159.
+LaTeX Font Info:    Try loading font information for U+pxsyb on input line 160.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/pxfonts/upxsyb.fd
 File: utxsyb.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+pxmia on input line 159.
+LaTeX Font Info:    Try loading font information for U+pxmia on input line 160.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/pxfonts/upxmia.fd
 File: upxmia.fd 2000/12/14 v1.0
 )
-LaTeX Font Info:    Try loading font information for U+pxsyc on input line 159.
+LaTeX Font Info:    Try loading font information for U+pxsyc on input line 160.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/pxfonts/upxsyc.fd
@@ -1345,98 +1345,138 @@ File: upxsyc.fd 2000/12/14 v1.0
 <process_block.png, id=105, 249.93375pt x 128.48pt>
 File: process_block.png Graphic file (type png)
  <use process_block.png>
-Package pdftex.def Info: process_block.png used on input line 159.
+Package pdftex.def Info: process_block.png used on input line 160.
 (pdftex.def)             Requested size: 82.96854pt x 42.64946pt.
 
 <sink_block.png, id=106, 234.8775pt x 252.945pt>
 File: sink_block.png Graphic file (type png)
  <use sink_block.png>
-Package pdftex.def Info: sink_block.png used on input line 159.
+Package pdftex.def Info: sink_block.png used on input line 160.
 (pdftex.def)             Requested size: 82.96854pt x 89.35031pt.
 File: fosseelogo.png Graphic file (type png)
 
 <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 159.
+Package pdftex.def Info: fosseelogo.png used on input line 160.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 159.
+Package pdftex.def Info: iitblogo.pdf used on input line 160.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [10
 
- <./source_block.png> <./process_block.png> <./sink_block.png>]
+ <./source_block.png> <./process_block.png> <./sink_block.png>] <sandhi_GUI.png
+, id=114, 1312.905pt x 744.7825pt>
+File: sandhi_GUI.png Graphic file (type png)
+
+<use sandhi_GUI.png>
+Package pdftex.def Info: sandhi_GUI.png used on input line 169.
+(pdftex.def)             Requested size: 276.559pt x 156.88625pt.
 File: fosseelogo.png Graphic file (type png)
  <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 184.
+Package pdftex.def Info: fosseelogo.png used on input line 169.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 184.
+Package pdftex.def Info: iitblogo.pdf used on input line 169.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [11
 
-]
-<sandhi_presentation.png, id=120, 672.5125pt x 91.34125pt>
-File: sandhi_presentation.png Graphic file (type png)
-
-<use sandhi_presentation.png>
-Package pdftex.def Info: sandhi_presentation.png used on input line 202.
-(pdftex.def)             Requested size: 284.52618pt x 79.67111pt.
+ <./sandhi_GUI.png>]
 File: fosseelogo.png Graphic file (type png)
  <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 202.
+Package pdftex.def Info: fosseelogo.png used on input line 194.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 202.
+Package pdftex.def Info: iitblogo.pdf used on input line 194.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [12
 
- <./sandhi_presentation.png>] <sbhs.jpg, id=127, 1188.44pt x 668.4975pt>
-File: sbhs.jpg Graphic file (type jpg)
+]
+<sandhi_presentation.png, id=127, 672.5125pt x 91.34125pt>
+File: sandhi_presentation.png Graphic file (type png)
 
-<use sbhs.jpg>
-Package pdftex.def Info: sbhs.jpg used on input line 230.
-(pdftex.def)             Requested size: 107.55098pt x 60.48859pt.
- <sbhs_img.png, id=128, 451.6875pt x 307.1475pt>
-File: sbhs_img.png Graphic file (type png)
-
-<use sbhs_img.png>
-Package pdftex.def Info: sbhs_img.png used on input line 230.
-(pdftex.def)             Requested size: 107.55098pt x 73.13106pt.
+<use sandhi_presentation.png>
+Package pdftex.def Info: sandhi_presentation.png used on input line 210.
+(pdftex.def)             Requested size: 284.52618pt x 79.67111pt.
 File: fosseelogo.png Graphic file (type png)
  <use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 230.
+Package pdftex.def Info: fosseelogo.png used on input line 210.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 230.
+Package pdftex.def Info: iitblogo.pdf used on input line 210.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [13
 
- <./sbhs.jpg> <./sbhs_img.png>]
-File: step_resp.png Graphic file (type png)
- <use step_resp.png>
-Package pdftex.def Info: step_resp.png used on input line 253.
-(pdftex.def)             Requested size: 138.2795pt x 55.47649pt.
-
-<step_out.png, id=136, 702.625pt x 486.81876pt>
-File: step_out.png Graphic file (type png)
- <use step_out.png>
-Package pdftex.def Info: step_out.png used on input line 253.
-(pdftex.def)             Requested size: 92.18788pt x 63.86806pt.
+ <./sandhi_presentation.png>]
 File: fosseelogo.png Graphic file (type png)
-
-<use fosseelogo.png>
-Package pdftex.def Info: fosseelogo.png used on input line 253.
+ <use fosseelogo.png>
+Package pdftex.def Info: fosseelogo.png used on input line 222.
 (pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
 File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf>
-Package pdftex.def Info: iitblogo.pdf used on input line 253.
+Package pdftex.def Info: iitblogo.pdf used on input line 222.
 (pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
  [14
 
+]
+<sbhs.jpg, id=141, 1188.44pt x 668.4975pt>
+File: sbhs.jpg Graphic file (type jpg)
+ <use sbhs.jpg>
+Package pdftex.def Info: sbhs.jpg used on input line 251.
+(pdftex.def)             Requested size: 107.55098pt x 60.48859pt.
+
+<sbhs_img.png, id=142, 451.6875pt x 307.1475pt>
+File: sbhs_img.png Graphic file (type png)
+ <use sbhs_img.png>
+Package pdftex.def Info: sbhs_img.png used on input line 251.
+(pdftex.def)             Requested size: 107.55098pt x 73.13106pt.
+File: fosseelogo.png Graphic file (type png)
+
+<use fosseelogo.png>
+Package pdftex.def Info: fosseelogo.png used on input line 251.
+(pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
+File: iitblogo.pdf Graphic file (type pdf)
+ <use iitblogo.pdf>
+Package pdftex.def Info: iitblogo.pdf used on input line 251.
+(pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
+ [15
+
+ <./sbhs.jpg> <./sbhs_img.png>]
+File: step_resp.png Graphic file (type png)
+
+<use step_resp.png>
+Package pdftex.def Info: step_resp.png used on input line 274.
+(pdftex.def)             Requested size: 138.2795pt x 55.47649pt.
+ <step_out.png, id=149, 702.625pt x 486.81876pt>
+File: step_out.png Graphic file (type png)
+
+<use step_out.png>
+Package pdftex.def Info: step_out.png used on input line 274.
+(pdftex.def)             Requested size: 92.18788pt x 63.86806pt.
+File: fosseelogo.png Graphic file (type png)
+ <use fosseelogo.png>
+Package pdftex.def Info: fosseelogo.png used on input line 274.
+(pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
+File: iitblogo.pdf Graphic file (type pdf)
+ <use iitblogo.pdf>
+Package pdftex.def Info: iitblogo.pdf used on input line 274.
+(pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
+ [16
+
  <./step_out.png>]
+File: fosseelogo.png Graphic file (type png)
+ <use fosseelogo.png>
+Package pdftex.def Info: fosseelogo.png used on input line 290.
+(pdftex.def)             Requested size: 28.45274pt x 10.86656pt.
+File: iitblogo.pdf Graphic file (type pdf)
+ <use iitblogo.pdf>
+Package pdftex.def Info: iitblogo.pdf used on input line 290.
+(pdftex.def)             Requested size: 29.0044pt x 28.45274pt.
+ [17
+
+]
 \tf@nav=\write6
 \openout6 = `sandhi.nav'.
 
@@ -1446,20 +1486,20 @@ Package pdftex.def Info: iitblogo.pdf used on input line 253.
 \tf@snm=\write8
 \openout8 = `sandhi.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 258.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 258.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 294.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
  (./sandhi.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 258.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 258.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 294.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 294.
 Package rerunfilecheck Info: File `sandhi.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 258.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 294.
  ) 
 Here is how much of TeX's memory you used:
- 22070 strings out of 494985
- 434732 string characters out of 6180357
- 550684 words of memory out of 5000000
- 24681 multiletter control sequences out of 15000+600000
+ 22085 strings out of 494985
+ 434910 string characters out of 6180357
+ 551682 words of memory out of 5000000
+ 24689 multiletter control sequences out of 15000+600000
  25033 words of font info for 72 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  49i,16n,57p,395b,545s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1470,10 +1510,10 @@ e/texmf-dist/fonts/type1/public/pxfonts/rpxb.pfb></usr/share/texlive/texmf-dist
 o/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on sandhi.pdf (14 pages, 359407 bytes).
+Output written on sandhi.pdf (17 pages, 458072 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 158 words of extra memory for PDF output out of 10000 (max. 10000000)
 

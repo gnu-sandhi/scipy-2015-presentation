@@ -63,6 +63,7 @@
         \begin{figure}
         \centering
         \includegraphics[height=2.8cm, width=10cm]{step_resp.png}
+	\caption{Flowgraph}
         \end{figure}
         \vspace{-0.2in}
 
@@ -132,7 +133,7 @@
 \end{frame}
 
 \begin{frame}
-        \frametitle{Block in sandhi}
+        \frametitle{Blocks in sandhi}
         \begin{itemize}
 	\item Blocks are the basic building component of flowgraph
 	\item Blocks have the property written in C++ or Python
@@ -156,6 +157,15 @@
         \end{minipage}
     \end{figure}
 
+\end{frame}
+
+\begin{frame}
+	\frametitle{Sandhi GUI}
+	\begin{figure}
+	\centering
+	\includegraphics[width=.9\linewidth]{sandhi_GUI.png}
+	\caption{Sandhi GUI}
+	\end{figure}
 \end{frame}
 
 \begin{frame}
@@ -197,9 +207,20 @@
 \item \textbf{Source:} A producer of data.
 \item \textbf{Sink:} A consumer of data.
 \end{itemize}
-
-
-\end{frame}\begin{frame}
+\end{frame}
+\begin{frame}
+\frametitle{Features}
+\begin{itemize}
+        \item Applications based on flowgraph can be created in sandhi by connecting blocks as per requirement
+        \item In sandhi user can create their own customized blocks using GNU Radio API
+        \item It is capable of passing any practical types of data between blocks
+        \item User can use scilab script in flowgraph for computation using sciscipy wrapper
+        \item Flowgraph with feedback can be create using GRAS
+        \item Sandhi provides nice GUI to plot or show data.
+        \item User can also change value in real time using slider.
+\end{itemize}
+\end{frame}
+\begin{frame}
         \frametitle{Experiments on sandhi: Data Aquisition}
         \begin{itemize}
 	\item Single Board Heater System(SBHS) can controlled using sandhi
@@ -252,6 +273,21 @@
     \end{figure}
 \end{frame}
 
+\begin{frame}
+\frametitle{Ongoing work}
+\begin{itemize}
+\item Migrating virtual lab experiments from LABview to Sandhi
+\item Improving GUI of Sandhi
+\item Addition of features similar to LabView
+\item Improving performance of experiments
+\item Migration of WX blocks to QT
+\item Testing of existing blocks
+\item Method to pass Array between blocks
+\item Data Aquisition using NI DAQs
+\item Control of sampling rate
+\item Automatic code generation of blocks
+\end{itemize}
+\end{frame}
 
 
 
