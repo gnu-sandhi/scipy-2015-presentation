@@ -17,7 +17,7 @@
 \usepackage{pxfonts}
 \usepackage[english]{babel}
 \usepackage[utf8x]{inputenc}
-
+\usepackage[font=small,labelfont=bf]{caption}
 \usepackage{amsmath}
 \usepackage{tikz}
 \usetikzlibrary{arrows,shapes}
@@ -52,7 +52,12 @@
         \frametitle{Flowgraph}
         \begin{itemize}
         \item Flowgraph represents the connections of the blocks through which a continuous stream of samples flows
-        \item The concept of a flowgraph is an acyclic directional graph with one or more source blocks (to insert samples into the flowgraph), one or more sink blocks (to terminate or export samples from the flowgraph), and any functional blocks in between.
+        \item The concept of a flowgraph is an acyclic directional graph:
+	\begin{itemize}
+	\item  with one or more source blocks (to insert samples into the flowgraph) 
+	\item  one or more sink blocks (to terminate or export samples from the flowgraph) and 
+	\item  any functional blocks in between.
+	\end {itemize}
         \end{itemize}
 	\vspace{-0.14in}
         \begin{figure}
@@ -108,15 +113,22 @@
 		\item Sciscipy is an Application Programming Interface 
 		\item Aimed for Inter Process Communication with scilab when in workspace of Python programming language
 	\end{itemize}
+	\textbf{Sample Code:}\\ 
+	\textit{from scilab import Scilab 
+                \\  sci = Scilab()
+                \\  x = sci.rand(20, 20)
+                \\  y = x*x.transpose()
+                \\  y\_inv = sci.inv(y)}
 \end{frame}
 
 \begin{frame}
         \frametitle{GRAS}
         \begin{itemize}
 		\item GRAS stands for GNU Radio Advanced Scheduler
-		\item It was impossible to implement the feedback with GNU Radio, which uses stock application schedular 
-\textbf{Note:} Application Scheduler is responsible for threading, controlling the data flow and managing the use of the computer resources like processor time to various processes.
+		\item It was impossible to implement the feedback with GNU Radio, which uses stock application schedular \newline 
         \end{itemize}
+\textit{\textbf{Note:} Application Scheduler is responsible for threading, controlling the data flow and managing the use of the computer resources like processor time to various processes.}
+
 \end{frame}
 
 \begin{frame}
@@ -125,6 +137,25 @@
 	\item Blocks are the basic building component of flowgraph
 	\item Blocks have the property written in C++ or Python
         \end{itemize}
+\begin{figure}
+        \centering
+        \begin{minipage}{.3\textwidth}
+            \centering
+            \includegraphics[width=.9\linewidth]{source_block.png}
+            \caption{Source}
+        \end{minipage}%
+        \begin{minipage}{.3\textwidth}
+            \centering
+            \includegraphics[width=.9\linewidth]{process_block.png}
+            \caption{Process}
+        \end{minipage}%
+	\begin{minipage}{.3\textwidth}
+            \centering
+            \includegraphics[width=.9\linewidth]{sink_block.png}
+            \caption{Sink}
+        \end{minipage}
+    \end{figure}
+
 \end{frame}
 
 \begin{frame}
@@ -138,6 +169,18 @@
 			\item Properties written in xml file
 		\end{itemize}
         \end{itemize}
+%\begin{figure}
+%        \begin{minipage}{.5\textwidth}
+%            \centering
+%            \includegraphics[width=.5\linewidth]{code_screenshot.png}
+%            \caption{Flowgraph}
+%        \end{minipage}%
+%        \begin{minipage}{.5\textwidth}
+%            \includegraphics[width=.5\linewidth]{xml_file.png}
+%            \caption{Output Plot}
+%        \end{minipage}
+%    \end{figure}
+
 \end{frame}
 
 \begin{frame}
@@ -153,8 +196,6 @@
 \item \textbf{port:} A single input or output of a block.
 \item \textbf{Source:} A producer of data.
 \item \textbf{Sink:} A consumer of data.
-\item \textbf{Connection:} A flow of data from output port to input port.
-\item \textbf{Flow graph:} A collection of blocks and connections.
 \end{itemize}
 
 
@@ -164,7 +205,19 @@
 	\item Single Board Heater System(SBHS) can controlled using sandhi
 	\item Using Python serial library, one can set the fan,heat value to SBHS and receive temperature value from SBHS
         \end{itemize}
-
+\begin{figure}
+        \centering
+        \begin{minipage}{.5\textwidth}
+            \centering
+            \includegraphics[width=.7\linewidth]{sbhs.jpg}
+            \caption{SBHS setup}
+        \end{minipage}%
+        \begin{minipage}{.5\textwidth}
+            \centering
+            \includegraphics[width=.7\linewidth]{sbhs_img.png}
+            \caption{Output Window with slider}
+        \end{minipage}
+    \end{figure}
 %  \includegraphics[width=.5\linewidth]{sbhs.jpg}
 %  \caption{SBHS showing value of fan, heat and temperature}
 %  \includegraphics[width=.5\linewidth]{sbhs_img.png}
@@ -181,9 +234,25 @@
         \frametitle{Experiments on sandhi: step response of transfer function}
         \begin{itemize}
 	\item To perform step response the flowgraph is created as follows
-	\item Flowgraph uses Numerator, Denomenator, Response and plot-sink block
-	\item These blocks has been written in Python and response of system is calculated in scilab using sciscipy
+	\item Flowgraph uses \textit{Numerator}, \textit{Denomenator}, \textit{Response} and \textit{plot-sink} block
+	\item These blocks has been written in Python and response of system is calculated in scilab using sciscipy in Response block
         \end{itemize}
+\begin{figure}
+        \centering
+        \begin{minipage}{.5\textwidth}
+            \centering
+            \includegraphics[width=.9\linewidth]{step_resp.png}
+            \caption{Flowgraph}
+        \end{minipage}%
+        \begin{minipage}{.5\textwidth}
+            \centering
+            \includegraphics[width=.6\linewidth]{step_out.png}
+            \caption{Output Plot}
+        \end{minipage}
+    \end{figure}
 \end{frame}
+
+
+
 
 \end{document}
