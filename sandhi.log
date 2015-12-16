@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.19)  16 DEC 2015 03:21
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.1.19)  16 DEC 2015 10:40
 entering extended mode
  %&-line parsing enabled.
 **sandhi.tex
@@ -1342,35 +1342,33 @@ File: iitblogo.pdf Graphic file (type pdf)
  <use iitblogo.pdf> [17
 
  <./my_img/architecture.png (PNG copy)>]
-<my_img/gautam_buddha_large.png, id=160, 310.15875pt x 416.30531pt>
-File: my_img/gautam_buddha_large.png Graphic file (type png)
-
-<use my_img/gautam_buddha_large.png>
+<my_img/shaku1.png, id=160, 334.24875pt x 444.15938pt>
+File: my_img/shaku1.png Graphic file (type png)
+ <use my_img/shaku1.png>
 File: fosseelogo.png Graphic file (type png)
- <use fosseelogo.png>
-File: iitblogo.pdf Graphic file (type pdf)
- <use iitblogo.pdf>
-[18
 
- <./my_img/gautam_buddha_large.png>]
+<use fosseelogo.png>
+File: iitblogo.pdf Graphic file (type pdf)
+ <use iitblogo.pdf> [18
+
+ <./my_img/shaku1.png>]
 File: fosseelogo.png Graphic file (type png)
- <use fosseelogo.png>
-File: iitblogo.pdf Graphic file (type pdf)
 
-<use iitblogo.pdf> [19
+<use fosseelogo.png>
+File: iitblogo.pdf Graphic file (type pdf)
+ <use iitblogo.pdf> [19
 
 ]
-<my_img/gautam_buddha_large2.png, id=174, 310.15875pt x 416.30531pt>
-File: my_img/gautam_buddha_large2.png Graphic file (type png)
-
-<use my_img/gautam_buddha_large2.png>
+<my_img/shaku2.png, id=174, 331.2375pt x 444.15938pt>
+File: my_img/shaku2.png Graphic file (type png)
+ <use my_img/shaku2.png>
 File: fosseelogo.png Graphic file (type png)
- <use fosseelogo.png>
-File: iitblogo.pdf Graphic file (type pdf)
- <use iitblogo.pdf>
-[20
 
- <./my_img/gautam_buddha_large2.png>]
+<use fosseelogo.png>
+File: iitblogo.pdf Graphic file (type pdf)
+ <use iitblogo.pdf> [20
+
+ <./my_img/shaku2.png>]
 <my_img/wf_code_snipped.png, id=181, 551.05875pt x 261.97874pt>
 File: my_img/wf_code_snipped.png Graphic file (type png)
 
@@ -1414,8 +1412,8 @@ File: iitblogo.pdf Graphic file (type pdf)
  (./sandhi.aux) ) 
 Here is how much of TeX's memory you used:
  20879 strings out of 495061
- 414544 string characters out of 1182621
- 525141 words of memory out of 3000000
+ 414409 string characters out of 1182621
+ 525142 words of memory out of 3000000
  23417 multiletter control sequences out of 15000+50000
  26831 words of font info for 76 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -1427,7 +1425,7 @@ ic/pxfonts/rpxr.pfb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplb8a.p
 fb></usr/share/texmf-texlive/fonts/type1/urw/palatino/uplbi8a.pfb></usr/share/t
 exmf-texlive/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texmf-texlive/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on sandhi.pdf (24 pages, 764696 bytes).
+Output written on sandhi.pdf (24 pages, 1610502 bytes).
 PDF statistics:
  242 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)
